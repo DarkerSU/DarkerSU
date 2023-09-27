@@ -34,7 +34,7 @@
 
 ![Metrics](https://metrics.lecoq.io/darkersu?template=classic&isocalendar=1&calendar=1&16personalities=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&calendar=false&calendar.limit=1&16personalities=false&16personalities.sections=personality&16personalities.scores=true&config.timezone=Asia%2FShanghai&config.display=large)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=darkersu)](https://github.com/darkersu/github-readme-activity-graph)
+[![darkersu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=darkersu&theme=vue)](https://github.com/darkersu/github-readme-activity-graph)
 
 
 <!--
